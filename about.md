@@ -11,6 +11,15 @@ I am an urban and regional planner, researcher and data scientist. I have a Mast
 
 I constantly update my CV. Please find it [here](https://github.com/SD-Suman/SD-Suman.github.io/blob/master/Documents/CV_Suman.pdf).
 
+
+### Publications:
+
+Academic Journals:
+
+- Climate hazards are threatening vulnerable migrants in Indian megacities [[DOI]](https://doi.org/10.1038/s41558-021-01105-7)
+
+
+
 ### Contact me
 
 [suman.nad@gmail.com](mailto:suman.nad@gmail.com)
