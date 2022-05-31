@@ -69,3 +69,8 @@ To get it running in the new OS:
 - conda env create -n <your_prefered_env_name> --file environment.yml
 
 You may temporarily copy the environment file to your home folder or change the path in terminal to access the file. I do the first. 
+
+
+#### Creating Alias 
+
+This is the most helpful thing since you do this everyday. I have also recently shifted to jupyer lab from jupyter notebook and it is a bliss how it defaults to the previously opened files as is - even in my fresh install! 
