@@ -78,7 +78,7 @@ To check existing alias:
 
 - alias 
 
-For alias for different Python IDEs, I generally have:
+For alias for different Python IDEs, I generally have the following lines added to my .bashrc file:
 
 - alias xj="conda activate ox && jupyter notebook"
 - alias xs="conda activate ox && spyder"
