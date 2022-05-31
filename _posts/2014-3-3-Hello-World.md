@@ -51,7 +51,7 @@ _- sudo apt-get install gfortran
 
 Again super simple [instructions](https://docs.anaconda.com/anaconda/install/linux/) to follow. 
 
-Another thing that is religiously required to be done before installing Linux is to get all of your conda environments downloaded (as you might have added new modules and updated it). The documentations are the best place to go, although there are ton of other resources as well. Use the code:
+Another thing that is religiously required to be done before installing Linux is to get all of your conda environments downloaded (as you might have added new modules and updated it). The [documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) pages are the best place to go as a rule, especially for R, Python and its modules, although there are ton of other resources as well. Use the code:
 
 To list out the environments you have: 
 
