@@ -47,5 +47,7 @@ Two newly discovered missing packages in the MX Linux distro:
 _- sudo apt-get install gfortran
 - sudo apt install r-cran-mvtnorm_
 
+### For Python
+
 
 
