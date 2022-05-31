@@ -20,7 +20,7 @@ Here I list out the first steps to get your Linux system up and running quickly 
 
 ### For R Studio
 
-While installing R and R-Studio couldn't be more [simpler](https://www.rstudio.com/products/rstudio/download-server/debian-ubuntu/), Linux doesn't come pre-installed with several dependencies and system packages. So below are a bunch of dependencies you may need to install which I got through non-zero exits error while installing R packages. 
+While installing R and R-Studio couldn't be more [simpler](https://www.rstudio.com/products/rstudio/download-server/debian-ubuntu/), Linux doesn't come pre-installed with several dependencies and system packages. So below are a bunch of dependencies you may need to install (through the terminal) which I got through non-zero exits error while installing R packages. 
 
 
 _- sudo apt-get install libcurl4-openssl-dev
@@ -49,5 +49,12 @@ _- sudo apt-get install gfortran
 
 ### For Python
 
+Again super simple [instructions](https://docs.anaconda.com/anaconda/install/linux/) to follow. 
+
+Another thing that is religiously required to be done before installing Linux is to get all of your conda environments downloaded (as you might have added new modules and updated it). The documentations are the best place to go, although there are ton of other resources as well. Use the code:
+
+To list out the environments you have: 
+
+- conda env list
 
 
