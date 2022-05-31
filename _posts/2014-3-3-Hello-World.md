@@ -18,4 +18,4 @@ Here I followed the natural transition from a full fleged Linux distro with huge
 Here I list out the first steps to get your Linux system up and running quickly as I have had to replicate most of these process in the n fresh installs I have done so far. 
 
 
-While installing R and R-Studio is fairly simple and mentioned in CRAN and R-Studio websites 
+While installing R and R-Studio couldn't be more simpler (https://www.rstudio.com/products/rstudio/download-server/debian-ubuntu/) 
