@@ -18,7 +18,9 @@ I learnt R through [SWIRL](https://swirlstats.com/) and I think it is the best w
 3.ggplot (matplotlib has nothing on ggplot unless you come from a matlab/octave background)
 4.Everything else
 
-After the basics in Swirl, I jumped right in with the data, got overwheled, used excel, but after it gave me a very wrong pivot, vowed never to use excel again for any data handling (I still use it for making my to do's and done's now). 
+After the basics in Swirl, I jumped right in with the data, got overwheled, used excel, but after it gave me a very wrong pivot, vowed never to use excel again for any data handling (I still use it for making my to do's and done's now). I remember learning R was a breeze after that: tons of stackoverflows, blogs, tutorials, videos and courses from amazing fields of ecology, biology, medicine, etc. 
+
+Python was different from the start. I don't know why I thought jumping right in with OSMNX and NetworkX was a good idea: it wasn't. I started using python for the sole purpose that these great packages were only available in Python. While I was comfortable with even using spatial data (sf, sp, tmap, etc.) in R, networks data (edges, nodes and sometimes with spatial component) is one of the tougher datasets to handle. This made me fear python itself somehow. While I was fearfully approaching python through online courses, books and blogs, I was fortunate to come across a course offered for a very quick, hectic month which covered everything from Pandas, Numpy, API handling to building machine learning models and the most fun time series. 
 
 
 
