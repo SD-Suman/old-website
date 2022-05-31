@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-# R and Python in fresh Linux install
-
 Installing R Studio, setting up Anaconda and your environments in a fresh Linux install.
 
 
