@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an urban and regional planner, researcher and data scientist. I have a Masters and Bachelors degree in Urban Planning, a perpetual curiosity about things in the world, a big motivation to do something functional, productive for the society and be part of solutions to some of the various problems and challenges facing the society today. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I constantly update my CV. Please find it here. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[suman.nad@gmail.com](mailto:suman.nad@gmail.com)
