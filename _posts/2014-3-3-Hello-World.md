@@ -62,4 +62,9 @@ To save your environment to further save it in backup:
 - conda activate <environment_name>
 - conda env export > environment.yml
 
+Make sure you back up these .yml files as well.
+
+To get it running in the new OS: 
+
+- conda env create -n <your_prefered_env_name> --file environment.yml
 
