@@ -4,7 +4,7 @@ published: true
 Installing R Studio, setting up Anaconda and your environments in a fresh Linux install.
 
 
-I recently did a fresh install of linux for the _nth_ time. Remember to always backup your precious files! History of my linux use is, as predictable, a slow Windows 7 PC. Now I cannot imagine going back to Windows anymore.
+I recently did a fresh install of linux for the _nth_ time (remember to always backup your precious files!). History of my linux use is, as predictable, a slow Windows 7 PC. Now I cannot imagine going back to Windows anymore.
 
 
 > Linux Mint Cinnamon ---> Linux Mint MATE ---> MX Linux Fluxbox
