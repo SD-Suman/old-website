@@ -74,3 +74,19 @@ You may temporarily copy the environment file to your home folder or change the 
 #### Creating Alias 
 
 This is the most helpful thing since you do this everyday. I have also recently shifted to jupyer lab from jupyter notebook and it is a bliss how it defaults to the previously opened files as is - even in my fresh install! 
+
+Creating alias is beautifully explained in this [link](https://www.tecmint.com/create-alias-in-linux/). 
+
+To check existing alias:
+
+- alias 
+
+For alias for different Python IDEs, I generally have:
+
+- alias xj="conda activate ox && jupyter notebook"
+- alias xs="conda activate ox && spyder"
+- alias xd="conda deactivate"
+
+And a new favorite:
+
+- alias xj="conda activate ox && jupyter lab"
