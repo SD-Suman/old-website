@@ -7,6 +7,11 @@ I heard somewhere in passing that Sanskrit language does not have a word for tea
 
 I have a formal training in C/C++ by amazing teachers in my 11th and 12th std. We used the compilers and for the final exam, I also remember writing the code on paper and then also using the compiler in the lab for it. With that solid programming background, I self-learnt R easily after several years of learning C, but learning python was a mix of self-learning, books, online free courses and videos and a very helpfu certificate course. 
 
+https://raw.githubusercontent.com/SD-Suman/SD-Suman.github.io/master/images/computerfreeimagecc0.jpg
+
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+
+
 ### R vs Python 
 
 This is always a tough choice. In short, both are amazing but you tend to use what your peers use: R in academics and python in industry (although plenty of academics use both and more: even Fortran!). My journey of using R and Python started with excel, spss, more excel and statistics and probability course (audit) taken entirely in excel and then hopping on to a huge semi-organized Census of India 2001 and 2011 dataset. Excel couldn't handle the large dataset anymore. I remember trying to pivot the data and I got very weird numbers for totals which did not match with the actual. And when I did the same in R after learning it for a few days: it was easy (just a few lines of code), perfect and amazing. 
@@ -24,9 +29,4 @@ Python was different from the start. I don't know why I thought jumping right in
 
 Now my go to coding language is python and even though I could write R codes through memory before, I now need google for R and I can code python from memory. I want to come to a stage where I can use both seamlessly without getting confused with the sytax for each. 
 
-> Best is Python and R and in that order as there are so many more cool modules in Python for my use/interest/field. 
-
-
-
-
-
+> Best is Python and R and in that order as there are so many more cool modules in Python for my use/interest/field.
