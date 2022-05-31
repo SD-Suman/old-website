@@ -17,5 +17,11 @@ Here I followed the natural transition from a full fleged Linux distro with huge
 
 Here I list out the first steps to get your Linux system up and running quickly as I have had to replicate most of these process in the n fresh installs I have done so far. 
 
+### For R-Studio
 
-While installing R and R-Studio couldn't be more simpler (https://www.rstudio.com/products/rstudio/download-server/debian-ubuntu/) 
+While installing R and R-Studio couldn't be more simpler (https://www.rstudio.com/products/rstudio/download-server/debian-ubuntu/), Linux doesn't come pre-installed with several dependencies and system packages. So below are a bunch of dependencies you may need to install which I got through non-zero exits error while installing R packages. 
+
+```
+
+```
+
