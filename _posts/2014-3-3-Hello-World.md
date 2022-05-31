@@ -94,3 +94,7 @@ And a new favorite:
 All done! 
 
 In addition to the above there is usual installation of software such as QGIS, Google Earth Pro, GIMP, LibreOffice, PDF merger etc. I write this to help other beginners and for myself when I yet again do a fresh install of a better, lighter, faster Linux OS. For now, MX Linux has been a feather light experience and best among any linux I have used without any junk (that I know of). 
+
+The best things about MX Linux is its Bash Config and Clipboard which stores previous copied lines as well and is available as a tray icon in the bottom toolbar next to time. 
+
+PS: ox is my environment which exclusively is focused on OSMNX and NetworkX which I am a huge fan of. Please visit 
