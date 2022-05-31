@@ -10,6 +10,10 @@ I have a formal training in C/C++ by amazing teachers in my 11th and 12th std. W
 ![an image alt text](https://raw.githubusercontent.com/SD-Suman/SD-Suman.github.io/master/images/computerfreeimagecc0.jpg)
 
 
+Lets see
+![computerfreeimagecc0.jpg]({{site.baseurl}}/_posts/computerfreeimagecc0.jpg)
+
+
 ### R vs Python 
 
 This is always a tough choice. In short, both are amazing but you tend to use what your peers use: R in academics and python in industry (although plenty of academics use both and more: even Fortran!). My journey of using R and Python started with excel, spss, more excel and statistics and probability course (audit) taken entirely in excel and then hopping on to a huge semi-organized Census of India 2001 and 2011 dataset. Excel couldn't handle the large dataset anymore. I remember trying to pivot the data and I got very weird numbers for totals which did not match with the actual. And when I did the same in R after learning it for a few days: it was easy (just a few lines of code), perfect and amazing. 
