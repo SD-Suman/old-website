@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # R and Python in fresh Linux install
 
