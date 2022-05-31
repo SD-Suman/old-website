@@ -20,29 +20,29 @@ Here I list out the first steps to get your Linux system up and running quickly 
 While installing R and R-Studio couldn't be more [simpler](https://www.rstudio.com/products/rstudio/download-server/debian-ubuntu/), Linux doesn't come pre-installed with several dependencies and system packages. So below are a bunch of dependencies you may need to install (through the terminal) which I got through non-zero exits error while installing R packages. Please note that your linux system may be different and may need different dependencies.
 
 
-_- sudo apt-get install libcurl4-openssl-dev
-- sudo apt install libudunits2-dev
-- sudo apt install libssl-dev
-- sudo apt install libprotobuf-dev
-- sudo apt install libjq-dev
-- sudo apt install libfontconfig1-dev
-- sudo apt install unixodbc-dev
-- sudo apt install protobuf-compiler
-- sudo apt install libprotobuf-dev
-- sudo apt install libjq-dev
-- sudo apt install libavfilter-dev
-- sudo apt-get install cargo
-- sudo apt install libv8-dev
-- sudo apt install cmake
-- sudo add-apt-repository ppa:marutter/c2d4u
-- sudo apt-get install -y libssl-dev
-- sudo apt install libgdal-dev
-- sudo apt-get install gdal-bin proj-bin_
+    _- sudo apt-get install libcurl4-openssl-dev
+    - sudo apt install libudunits2-dev
+    - sudo apt install libssl-dev
+    - sudo apt install libprotobuf-dev
+    - sudo apt install libjq-dev
+    - sudo apt install libfontconfig1-dev
+    - sudo apt install unixodbc-dev
+    - sudo apt install protobuf-compiler
+    - sudo apt install libprotobuf-dev
+    - sudo apt install libjq-dev
+    - sudo apt install libavfilter-dev
+    - sudo apt-get install cargo
+    - sudo apt install libv8-dev
+    - sudo apt install cmake
+    - sudo add-apt-repository ppa:marutter/c2d4u
+    - sudo apt-get install -y libssl-dev
+    - sudo apt install libgdal-dev
+    - sudo apt-get install gdal-bin proj-bin_
 
 Two newly discovered missing packages in the MX Linux distro:
 
-_- sudo apt-get install gfortran
-- sudo apt install r-cran-mvtnorm_
+    _- sudo apt-get install gfortran
+    - sudo apt install r-cran-mvtnorm_
 
 ### For Python
 
@@ -52,18 +52,18 @@ Another thing that is religiously required to be done before installing Linux is
 
 To list out the environments you have: 
 
-- conda env list
+    - conda env list
 
 To save your environment to further save it in backup:
 
-- conda activate <environment_name>
-- conda env export > environment.yml
+    - conda activate <environment_name>
+    - conda env export > environment.yml
 
 Make sure you back up these .yml files as well.
 
 To get it running in the new OS: 
 
-- conda env create -n <your_prefered_env_name> --file environment.yml
+    - conda env create -n <your_prefered_env_name> --file environment.yml
 
 You may temporarily copy the environment file to your home folder or change the path in terminal to access the file. I do the first. 
 
@@ -76,17 +76,17 @@ Creating alias is beautifully explained in this [link](https://www.tecmint.com/c
 
 To check existing alias:
 
-- alias 
+    - alias 
 
 For alias for different Python IDEs, I generally have the following lines added to my .bashrc file:
 
-- alias xj="conda activate ox && jupyter notebook"
-- alias xs="conda activate ox && spyder"
-- alias xd="conda deactivate"
+    - alias xj="conda activate ox && jupyter notebook"
+    - alias xs="conda activate ox && spyder"
+    - alias xd="conda deactivate"
 
 And a new favorite:
 
-- alias xj="conda activate ox && jupyter lab"
+    - alias xj="conda activate ox && jupyter lab"
 
 All done! 
 
