@@ -68,3 +68,4 @@ To get it running in the new OS:
 
 - conda env create -n <your_prefered_env_name> --file environment.yml
 
+You may temporarily copy the environment file to your home folder or change the path in terminal to access the file. I do the first. 
