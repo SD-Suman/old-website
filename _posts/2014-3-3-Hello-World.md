@@ -57,4 +57,9 @@ To list out the environments you have:
 
 - conda env list
 
+To save your environment to further save it in backup:
+
+- conda activate <environment_name>
+- conda env export > environment.yml
+
 
