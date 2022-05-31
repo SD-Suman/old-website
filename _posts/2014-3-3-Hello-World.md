@@ -20,7 +20,7 @@ Here I list out the first steps to get your Linux system up and running quickly 
 
 ### For R Studio
 
-While installing R and R-Studio couldn't be more [simpler](https://www.rstudio.com/products/rstudio/download-server/debian-ubuntu/), Linux doesn't come pre-installed with several dependencies and system packages. So below are a bunch of dependencies you may need to install (through the terminal) which I got through non-zero exits error while installing R packages. 
+While installing R and R-Studio couldn't be more [simpler](https://www.rstudio.com/products/rstudio/download-server/debian-ubuntu/), Linux doesn't come pre-installed with several dependencies and system packages. So below are a bunch of dependencies you may need to install (through the terminal) which I got through non-zero exits error while installing R packages. Please note that your linux system may be different and may need different dependencies.
 
 
 _- sudo apt-get install libcurl4-openssl-dev
