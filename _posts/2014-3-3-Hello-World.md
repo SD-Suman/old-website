@@ -45,7 +45,6 @@ sudo apt-get install gdal-bin proj-bin
 
 sudo apt-get install gfortran
 sudo apt install r-cran-mvtnorm
-
 ```
 
 
