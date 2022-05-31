@@ -9,7 +9,7 @@ I am an urban and regional planner, researcher and data scientist. I have a Mast
 
 ### More Information
 
-I constantly update my CV. Please find it [here](<a href="SD-Suman.github.io/blob/master/Documents/CV_Suman.pdf" target="_blank">PDF.</a>). 
+I constantly update my CV. Please find it [here](https://github.com/SD-Suman/SD-Suman.github.io/blob/master/Documents/CV_Suman.pdf).
 
 ### Contact me
 
