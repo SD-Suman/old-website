@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I am an urban and regional planner, researcher and data scientist. I have a Masters and Bachelors degree in Urban Planning, a perpetual curiosity about things in the world, a big motivation to do something functional, productive for the society and be part of solutions to some of the various problems and challenges facing the society today. 
+I, Suman Dharmasthala (S D Suman) am an urban and regional planner, researcher and data scientist. I have a Masters and Bachelors degree in Urban Planning, a perpetual curiosity about things in the world, a big motivation to do something functional, productive for the society and be part of solutions to some of the various problems and challenges facing the society today. 
 
 ### More Information
 
