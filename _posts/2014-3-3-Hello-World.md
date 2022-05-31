@@ -90,3 +90,7 @@ For alias for different Python IDEs, I generally have:
 And a new favorite:
 
 - alias xj="conda activate ox && jupyter lab"
+
+All done! 
+
+In addition to the above there is usual installation of software such as QGIS, Google Earth Pro, GIMP, LibreOffice, PDF merger etc. I write this to help other beginners and for myself when I yet again do a fresh install of a better, lighter, faster Linux OS. For now, MX Linux has been a feather light experience and best among any linux I have used without any junk (that I know of). 
