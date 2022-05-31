@@ -96,10 +96,3 @@ In addition to the above there is usual installation of software such as QGIS, G
 The best things about MX Linux is its Bash Config and Clipboard which stores previous copied lines as well and is available as a tray icon in the bottom toolbar next to time. The worst thing is it doesn't readily show the power icon on the same toolbar. I am still keeping the MX Linux for a while and not switching as the pros outweigh the cons in a great proportion.  
 
 PS: ox is my environment which exclusively is focused on OSMNX and NetworkX which I am a huge fan of. Please visit [Geoff Boeing's OSMNX page](https://geoffboeing.com/tag/osmnx/) for more info on OSMNX.
-
-
-    #Python Code
-    import numpy as np 
-    
-    
-    et = np.random.randint(1,2)
