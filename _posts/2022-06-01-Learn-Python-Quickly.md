@@ -7,13 +7,4 @@ I learnt python by first jumping into two complicated packages (OSMNX and Networ
 
 How is this different from so many other quick tutorials out there? Every course out there goes into details into each one - making it seem like there is a lot (there is, but it doesn't have to be for the tart). This has all you need to know summarized into tiny chunks to get started - similar to and taking inspiration from what [SWIRL](https://swirlstats.com/) is for R. And after having learnt both R (easily) and Python (long, winding way, then all of a sudden), I wish I had this course to learn from and not get intimidated by Python at all. This is designed by me for a workshop which got super positive feedback and was an intro to some further advanced coding session.  Learning to code (or learning anything) shouldn't be like jumping right into the ocean. It should start with a bucket of water, lake with a life jacket on, then learning swimming to finally jumping into the ocean to learn to your heart's content and some more! 
 
-### Learn Python Quickly 
-
-
-
-
-
-
-
-
-
+### Learn Python Quickly
