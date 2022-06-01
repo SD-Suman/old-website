@@ -15,5 +15,5 @@ Anaconda is the easiest way to get python and dependent modules/packages; to get
 
 Install Anaconda and open Jupyter Notebook. Download the whole repository and test it out.
 
-It starts with basic python codes and its data types (int, float, string, etc.) and then goes on to the two most important and most used packages: numpy and pandas. Pandas also touches upon time series as this was an 
+It starts with basic python codes and its data types (int, float, string, etc.) and then goes on to the two most important and most used packages: numpy and pandas. Pandas also touches upon time series as this was an intro for large multi-dimentional data set (spatial and time). And some intro to visualization through matplotlib. 
 
