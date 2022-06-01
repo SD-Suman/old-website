@@ -9,4 +9,11 @@ How is this different from so many other quick tutorials out there? Every course
 
 ### Learn Python Quickly
 
+You can find the whole course set [here](https://github.com/SD-Suman/Learn-Python-Quickly), but if you want a short running commentaries, stick around:
+
+Anaconda is the easiest way to get python and dependent modules/packages; to get started right away. Anaconda comes with a few IDEs pre-installed: Jupyter Notebook (I generally work on this), Jupyter Lab (my new favorite) and Spyder (similar to R-Studio). 
+
+Install Anaconda and open Jupyter Notebook. Download the whole 
+
+
 
