@@ -21,4 +21,4 @@ I constantly update my CV (in LaTeX). Please find it [here](https://github.com/S
 
 ### Contact me
 
-[suman.nad@gmail.com](mailto:suman.nad@gmail.com)
+Please mail me at [suman.nad@gmail.com](mailto:suman.nad@gmail.com)
