@@ -1,7 +1,8 @@
 ---
-layout: default
-title: "A New Post for cheking"
+layout: page
+title: A New Post for cheking
 collection: portfolio
+published: true
 ---
 
 
@@ -17,5 +18,3 @@ This should be good to test
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
