@@ -6,3 +6,8 @@ published: true
 My curiousity about complex systems and its applciation in finding solutions for the intrinsical complexity that is urban (social and resource utilization) systems led me to this beautiful equation. 
 
 The equation is simply:
+
+
+
+
+[Here](https://www.magesblog.com/post/2012-03-17-logistic-map-feigenbaum-diagram/) are some more places where you can find out more about the Logistic Map equation.
