@@ -22,8 +22,6 @@ author_profile: true
 ---
 -->
 
-Below are some of my projects created by me or in collaboration with amazing people!
-
 
 <!--
 ## [Climate Proofing Cities: A Resilience Analysis](https://anamika255.github.io/portfolio/C40-Cities/)
