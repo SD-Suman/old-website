@@ -10,4 +10,4 @@ The equation is simply:
 
 
 
-[Here](https://www.magesblog.com/post/2012-03-17-logistic-map-feigenbaum-diagram/) are some more places where you can find out more about the Logistic Map equation.
+[Here](https://www.magesblog.com/post/2012-03-17-logistic-map-feigenbaum-diagram/) is another place where you can find out more about the Logistic Map equation.
