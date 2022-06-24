@@ -1,6 +1,5 @@
 ---
-layout: single
-sitemap: true
+layout: default
 title: "A New Post for cheking"
 excerpt: "Lets see if this works "
 collection: portfolio
