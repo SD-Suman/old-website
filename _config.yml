@@ -52,7 +52,9 @@ baseurl: ""
 
 # Set collection
 collections:
-  - portfolio
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 #
 # !! You don't need to change any of the configuration flags below !!
