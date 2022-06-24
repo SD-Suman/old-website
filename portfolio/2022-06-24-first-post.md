@@ -1,9 +1,7 @@
 ---
 layout: default
 title: "A New Post for cheking"
-excerpt: "Lets see if this works "
 collection: portfolio
-author_profile: false
 ---
 
 
