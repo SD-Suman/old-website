@@ -11,7 +11,7 @@ published: true
 Below are some of my projects created by me or in collaboration with amazing people!
 
 
-
+<!--
 
 ---
 layout: default
@@ -20,6 +20,7 @@ permalink: /portfolio/
 collection: portfolio
 author_profile: true
 ---
+-->
 
 Below are some of my projects created by me or in collaboration with amazing people!
 
