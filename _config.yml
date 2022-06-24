@@ -50,17 +50,15 @@ url: #http://SD-Suman.github.io/portfolio
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# Set collection
+collections:
+  - portfolio
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
 
 permalink: /:title/
-
-# Set collection
-#collections:
-#  - portfolio
-
-
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
